@@ -8,6 +8,7 @@ function loadHeader() {
         <a href="index.html#maple-booster-rev3">Maple Booster (rev. 2)</a>
         <a href="index.html#maple-booster-rev3">Maple Booster (rev. 1)</a>
         <a href="index.html#deacy-pre-amp">Deacy (Pre)Amp</a>
+        <a href="index.html#os">Open Source</a>
     </div>`
     document.getElementById('header').innerHTML = headerHTML;
     printRandomParagraph(); // Call the function after setting the inner HTML
